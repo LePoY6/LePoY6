@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LePoY6
+- 👋 Hi, I’m Ivan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML,CSS,JavaScript
 - 💞️ I’m looking to collaborate on ...
